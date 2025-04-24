@@ -7,7 +7,7 @@ A responsive cryptocurrency dashboard built using **React**, **Tailwind CSS**, a
 ## 🚀 Demo
 
   📹 [Watch Demo Video](video-link)  
-🖼️ ![Demo GIF](demo-gif)
+🖼️ ![Screenshot](./assets/demo-image.png)
 
 ---
 
