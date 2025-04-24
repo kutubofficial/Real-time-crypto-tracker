@@ -5,10 +5,12 @@ A responsive cryptocurrency dashboard built using **React**, **Tailwind CSS**, a
 ---
 
 ## 🚀 Demo
-
-  📹 [Watch Demo Video](video-link)  
+ 
 🖼️ ![Screenshot](./assets/demo-image.png)
 
+## 🚀 Live Demo
+
+🔗 [https://crypto-tracker599.netlify.app/]
 ---
 
 ## 🛠️ Tech Stack
