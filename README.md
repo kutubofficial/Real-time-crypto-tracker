@@ -37,7 +37,7 @@ A responsive cryptocurrency dashboard built using **React**, **Tailwind CSS**, a
 
 1. **Clone the repo**  
 ```bash
-git clone https://github.com/kutubofficial599/real-time-crypto-dashboard.git
+git clone https://github.com/kutubofficial599/real-time-crypto.git
 cd real-time-crypto-dashboard
 
 2. **Install dependencies**
