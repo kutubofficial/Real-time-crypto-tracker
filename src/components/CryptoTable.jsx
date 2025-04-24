@@ -40,6 +40,7 @@ const CryptoTable = () => {
           </tr>
         </thead>
         <tbody>
+          
           {cryptoData?.map((coin, index) => (
             <tr key={index} className="border-t">
               <td className="px-4 py-2">
